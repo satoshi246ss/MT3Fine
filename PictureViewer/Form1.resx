@@ -132,6 +132,54 @@
   <metadata name="timerObsOnOff.TrayLocation" type="System.Drawing.Point, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a">
     <value>772, 17</value>
   </metadata>
+  <data name="icImagingControl1.DeviceState" xml:space="preserve">
+    <value>&lt;device_state libver="3.2" filemajor="1" fileminor="0"&gt;
+    &lt;device name="DMK 23G618" base_name="DMK 23G618" unique_name="DMK 23G618 35210253"&gt;
+        &lt;videoformat&gt;Y800 (640x480)&lt;/videoformat&gt;
+        &lt;fps&gt;120.00048000192001&lt;/fps&gt;
+        &lt;vcdpropertyitems&gt;
+            &lt;item guid="{284C0E0F-010B-45BF-8291-09D90A459B28}" name="Gain"&gt;
+                &lt;element guid="{B57D3001-0AC6-4819-A609-272A33140ACA}" name="Auto"&gt;
+                    &lt;itf guid="{99B44940-BFE1-4083-ADA1-BE703F4B8E04}" value="1" /&gt;
+                &lt;/element&gt;
+            &lt;/item&gt;
+            &lt;item guid="{90D5702E-E43B-4366-AAEB-7A7A10B448B4}" name="Exposure"&gt;
+                &lt;element guid="{B57D3001-0AC6-4819-A609-272A33140ACA}" name="Auto"&gt;
+                    &lt;itf guid="{99B44940-BFE1-4083-ADA1-BE703F4B8E04}" value="1" /&gt;
+                &lt;/element&gt;
+                &lt;element guid="{6519038C-1AD8-4E91-9021-66D64090CC85}" name="Auto Reference"&gt;
+                    &lt;itf guid="{99B44940-BFE1-4083-ADA1-BE703F4B8E03}" value="128" /&gt;
+                &lt;/element&gt;
+                &lt;element guid="{65190390-1AD8-4E91-9021-66D64090CC85}" name="Auto"&gt;
+                    &lt;itf guid="{99B44940-BFE1-4083-ADA1-BE703F4B8E04}" value="1" /&gt;
+                &lt;/element&gt;
+            &lt;/item&gt;
+            &lt;item guid="{90D57031-E43B-4366-AAEB-7A7A10B448B4}" name="Trigger"&gt;
+                &lt;element guid="{B57D3000-0AC6-4819-A609-272A33140ACA}" name="Enable"&gt;
+                    &lt;itf guid="{99B44940-BFE1-4083-ADA1-BE703F4B8E04}" value="0" /&gt;
+                &lt;/element&gt;
+                &lt;element guid="{6519038D-1AD8-4E91-9021-66D64090CC85}" name="Polarity"&gt;
+                    &lt;itf guid="{99B44940-BFE1-4083-ADA1-BE703F4B8E04}" value="1" /&gt;
+                &lt;/element&gt;
+                &lt;element guid="{C337CFB8-EA08-4E69-A655-586937B6AFEC}" name="Delay"&gt;
+                    &lt;itf guid="{99B44940-BFE1-4083-ADA1-BE703F4B8E08}" value="4." /&gt;
+                &lt;/element&gt;
+            &lt;/item&gt;
+            &lt;item guid="{86D89D69-9880-4618-9BF6-DED5E8383449}" name="GPIO"&gt;
+                &lt;element guid="{7D006621-761D-4B88-9C5F-8B906857A501}" name="GP Out"&gt;
+                    &lt;itf guid="{99B44940-BFE1-4083-ADA1-BE703F4B8E03}" value="0" /&gt;
+                &lt;/element&gt;
+            &lt;/item&gt;
+            &lt;item guid="{DC320EDE-DF2E-4A90-B926-71417C71C57C}" name="Strobe"&gt;
+                &lt;element guid="{B57D3000-0AC6-4819-A609-272A33140ACA}" name="Enable"&gt;
+                    &lt;itf guid="{99B44940-BFE1-4083-ADA1-BE703F4B8E04}" value="0" /&gt;
+                &lt;/element&gt;
+            &lt;/item&gt;
+        &lt;/vcdpropertyitems&gt;
+    &lt;/device&gt;
+&lt;/device_state&gt;
+</value>
+  </data>
   <metadata name="timerMTmonSend.TrayLocation" type="System.Drawing.Point, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a">
     <value>913, 17</value>
   </metadata>
@@ -145,6 +193,6 @@
     <value>608, 13</value>
   </metadata>
   <metadata name="$this.TrayHeight" type="System.Int32, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
-    <value>46</value>
+    <value>75</value>
   </metadata>
 </root>

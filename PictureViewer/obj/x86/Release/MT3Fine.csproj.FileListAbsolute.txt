@@ -11,4 +11,3 @@ C:\Users\root\Documents\Visual Studio 2010\Projects\MT3Fine\PictureViewer\bin\Re
 C:\Users\root\Documents\Visual Studio 2010\Projects\MT3Fine\PictureViewer\bin\Release\OpenCvSharp.Blob.dll
 C:\Users\root\Documents\Visual Studio 2010\Projects\MT3Fine\PictureViewer\obj\x86\Release\MT3Fine.csprojResolveAssemblyReference.cache
 C:\Users\root\Documents\Visual Studio 2010\Projects\MT3Fine\PictureViewer\obj\x86\Release\MT3Fine.csproj.GenerateResource.Cache
-C:\Users\root\Documents\Visual Studio 2010\Projects\MT3Fine\PictureViewer\obj\x86\Release\MT3Fine.Form2.resources
